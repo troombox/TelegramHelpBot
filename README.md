@@ -8,3 +8,4 @@ If online can be currently fount at VoltaHelp@Telegram
 
 /stop - end the process
 
+![alt text](https://github.com/troombox/TelegramHelpBot/blob/main/img/im1.png?raw=true)
